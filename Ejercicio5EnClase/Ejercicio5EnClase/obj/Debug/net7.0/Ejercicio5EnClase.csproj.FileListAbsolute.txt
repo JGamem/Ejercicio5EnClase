@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\bin\Debug\net7.0\Ejercicio5EnClase.exe
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\bin\Debug\net7.0\Ejercicio5EnClase.deps.json
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\bin\Debug\net7.0\Ejercicio5EnClase.runtimeconfig.json
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\bin\Debug\net7.0\Ejercicio5EnClase.dll
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\bin\Debug\net7.0\Ejercicio5EnClase.pdb
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.dll
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\refint\Ejercicio5EnClase.dll
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.pdb
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\Ejercicio5EnClase.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Desktop\Ejercicio5EnClase\Ejercicio5EnClase\obj\Debug\net7.0\ref\Ejercicio5EnClase.dll
